@@ -3,6 +3,22 @@
 <h1 align="center">P Y T H O N &nbsp;&amp;&nbsp; M A C R O &nbsp; D E V E L O P E R</h1>
 
 
+<h2 align="center">─── &nbsp; A B O U T &nbsp; ───</h2>
+
+<p align="center">
+Three months into Python — and already shipping.<br>
+I picked up the language recently, and rather than collecting tutorials, I build things that run:<br>
+bootstrappers, automation, macros. Software that works while I am elsewhere.
+</p>
+
+<p align="center">
+Away from the keyboard, the discipline stays the same — you will find me at the gym.<br>
+Progress there follows the same law as in code: show up, put in the reps, refuse to skip the hard parts.<br>
+<i>Shoulder day is sacred.</i>
+</p>
+
+<br>
+
 <h2 align="center">─── &nbsp; R E L E A S E S &nbsp; ───</h2>
 
 <p align="center"><i>Built with intent. Published as artifacts, not as blueprints.</i></p>
