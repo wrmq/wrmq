@@ -18,19 +18,10 @@ Everything runs through Roblox's own config files, no injection or memory patchi
 
 <p align="center">──────── ✦ ────────</p>
 
-<h3 align="center">K I C K &nbsp; A &nbsp; L U C K Y &nbsp; B L O C K &nbsp; M A C R O</h3>
-
-<p align="center">
-A Python macro made for the 2x multiplier, so you don't have to sit there clicking for hours.<br>
-It runs on its own, keeps logs, and picks itself back up when something goes wrong.
-</p>
-
-<p align="center">──────── ✦ ────────</p>
-
 <br>
 
 <p align="center"><sub>
-My releases are closed source — feel free to use them, but the code itself stays private.
+My releases are closed source. Feel free to use them, but the code itself stays private.
 </sub></p>
 
 <p align="center">
