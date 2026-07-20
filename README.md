@@ -2,9 +2,7 @@
 
 <h1 align="center">P Y T H O N &nbsp;&amp;&nbsp; M A C R O &nbsp; D E V E L O P E R</h1>
 
-h2 align="center">─── &nbsp; R E L E A S E S &nbsp; ───</h2>
-
-<p align="center"><i>Things I have built and actually use.</i></p>
+<p align="center"><i>Things I have built to make your life easier .</i></p>
 
 <br>
 
