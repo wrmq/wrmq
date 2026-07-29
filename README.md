@@ -12,7 +12,7 @@ Building automation, desktop applications and tools that save people time.
 
 I'm currently developing **ECHO**, a premium macro for the Roblox game **Fisch**.
 
-ECHO is built around reliability, speed and ease of use, with a strong focus on providing a polished user experience rather than just automating gameplay. It's actively maintained and continuously improved with new features and quality-of-life updates. [oai_citation:0‡Reddit](https://www.reddit.com/r/FischRoblox/comments/1uy9nd6/what_is_the_best_macro_currently/?utm_source=chatgpt.com)
+ECHO is built around reliability, speed and ease of use, with a strong focus on providing a polished user experience rather than just automating gameplay. It's actively maintained and continuously improved with new features and quality-of-life updates. [oai_citation:0‡Echo](https://www.echoshop.us)
 
 ---
 
