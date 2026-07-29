@@ -1,10 +1,26 @@
 <img width="1983" height="793" alt="githubbanner" src="https://github.com/user-attachments/assets/819200b2-9a58-4aba-8509-4311127d8a8b" />
 
-<h1 align="center">P Y T H O N &nbsp;&amp;&nbsp; M A C R O &nbsp; D E V E L O P E R</h1>
+<h1 align="center">Python Developer</h1>
 
-<p align="center"><i>Things I build to make your life easier.</i></p>
+<p align="center">
+Building automation, desktop applications and tools that save people time.
+</p>
 
-<br>
+---
+
+## Currently
+
+I'm currently developing **ECHO**, a premium macro for the Roblox game **Fisch**.
+
+ECHO is built around reliability, speed and ease of use, with a strong focus on providing a polished user experience rather than just automating gameplay. It's actively maintained and continuously improved with new features and quality-of-life updates. [oai_citation:0‡Reddit](https://www.reddit.com/r/FischRoblox/comments/1uy9nd6/what_is_the_best_macro_currently/?utm_source=chatgpt.com)
+
+---
+
+## About Me
+
+I'm a Python developer who enjoys building software that solves real problems.
+
+Most of my projects revolve around automation, Windows applications, macros and utilities. I prefer writing clean, maintainable code and making software that's simple to use.
 
 ## Socials
 
@@ -14,33 +30,41 @@
   </a>
 </p>
 
-## Languages & Skills
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
-<br>
+---
 
-<h3 align="center">R O S T R A P</h3>
+## Featured Project
 
-<p align="center">
-A custom Roblox bootstrapper for Windows, similar to Bloxstrap but written from scratch.<br>
-It manages the Roblox installation and applies your preferred FastFlags on every launch —<br>
-FPS unlock, renderer selection, graphics tweaks — and supports Roblox Studio as well.<br>
-Includes Discord Rich Presence, an in-game overlay and activity tracking.<br>
-Everything works through Roblox's own configuration files.<br>
-<b>No DLL injection. No memory patching.</b>
-</p>
+### ROSTRAP
 
-<p align="center">──────── ✦ ────────</p>
+A Roblox bootstrapper for Windows, written completely from scratch.
 
-<br>
+It manages your Roblox installation and automatically applies your preferred FastFlags every time the game launches.
+
+**Features**
+- FPS Unlock
+- Renderer selection
+- Graphics customization
+- Roblox Studio support
+- Discord Rich Presence
+- In-game overlay
+- Activity tracking
+
+Everything works through Roblox's own configuration system.
+
+**No DLL injection. No memory patching.**
+
+---
 
 <p align="center">
 <sub>
-My releases are closed source. Feel free to use them, but the source code remains private.
+Most of my releases are closed source. You're welcome to use them, but the source code remains private.
 </sub>
 </p>
 
