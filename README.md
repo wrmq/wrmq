@@ -10,7 +10,7 @@ Building automation, desktop applications and tools that save people time.
 
 ## About Me
 
-I'm a Python developer who enjoys building software that solves real problems.
+I'm a Python developer.
 
 Most of my projects revolve around automation, Windows applications, macros and utilities. I prefer writing clean, maintainable code and making software that's simple to use.
 
@@ -61,7 +61,6 @@ Most of my releases are closed source. You're welcome to use them, but the sourc
 </p>
 
 <p align="center">
-<a href="https://guns.lol/scryvt">
 <img src="https://img.shields.io/badge/guns.lol%2Fscryvt-Visit-6c5ce7?style=for-the-badge">
 </a>
 </p>
