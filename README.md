@@ -8,14 +8,6 @@ Building automation, desktop applications and tools that save people time.
 
 ---
 
-## Currently
-
-I'm currently developing **ECHO**, a premium macro for the Roblox game **Fisch**.
-
-ECHO is built around reliability, speed and ease of use, with a strong focus on providing a polished user experience rather than just automating gameplay. It's actively maintained and continuously improved with new features and quality-of-life updates. [oai_citation:0‡Echo](https://www.echoshop.us)
-
----
-
 ## About Me
 
 I'm a Python developer who enjoys building software that solves real problems.
