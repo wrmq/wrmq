@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Python and C-SHARP developer.
+I'm a Python and C-Sharp developer.
 
 Most of my projects revolve around automation, applications, macros and utilities.I prefer writing maintainable code and making software thats simple to use.
 
