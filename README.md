@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="githubbanner" src="https://github.com/user-attachments/assets/819200b2-9a58-4aba-8509-4311127d8a8b" />
 
-<h1 align="center">Python Developer</h1>
+<h1 align="center">my skills</h1>
 
 <p align="center">
   Building automation, desktop applications and tools that save people time.
@@ -10,9 +10,9 @@
 
 ## About Me
 
-I'm a Python developer.
+I'm a Python and C-SHARP developer.
 
-Most of my projects revolve around automation, Windows applications, macros and utilities. I prefer writing clean, maintainable code and making software that's simple to use.
+Most of my projects revolve around automation, applications, macros and utilities.I prefer writing maintainable code and making software thats simple to use.
 
 ## Socials
 
@@ -33,7 +33,7 @@ Most of my projects revolve around automation, Windows applications, macros and 
 
 <p align="center">
   <sub>
-    Most of my releases are closed source. You're welcome to use them, but the source code remains private.
+    Most of my releases are closed source. Youre welcome to use them, but the source code remains private.
   </sub>
 </p>
 
