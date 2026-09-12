@@ -27,6 +27,7 @@ Most of my projects revolve around automation, applications, macros and utilitie
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white">
 </p>
 
 ---
@@ -36,4 +37,5 @@ Most of my projects revolve around automation, applications, macros and utilitie
     Most of my releases are closed source. Youre welcome to use them, but the source code remains private.
   </sub>
 </p>
+
 
