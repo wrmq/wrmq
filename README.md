@@ -35,9 +35,6 @@ Most of my projects revolve around automation, applications, macros and utilitie
 
 <p align="center">
   <sub>
-    Most of my releases are closed source. Youre welcome to use them, but the source code remains private.
+    Hey Mewtwo
   </sub>
 </p>
-
-
-Hi Mewtwo
