@@ -16,9 +16,17 @@ Most of my projects revolve around automation, applications, macros and utilitie
 
 ## Security & Compliance
 
-All of my programs are developed with the intention of following the official Roblox Terms of Use and Community Standards. 
+All of my programs are developed with the intention of following the official Roblox Terms of Use and Community Standards.
 
-My software is not designed to steal account information, collect passwords or authentication tokens, bypass Roblox security systems or include malicious functionality such as malware, spyware or hidden background processes. I try to keep my projects transparent and give users full control over what the software does. Users should still review the source code, permissions and releases before running third-party software. If someone chooses to use my software in a way that violates the Roblox Terms of Use or Community Standards, that use is entirely outside the intended purpose of my projects. I do not support, encourage or take responsibility for the use of my software to violate Roblox rules, abuse game systems or gain access to features in ways that are not permitted by Roblox. Roblox may update its rules and systems over time, so users are responsible for making sure that their use of any software complies with the latest Roblox policies. My projects are independently developed and are not affiliated with, endorsed by or officially associated with Roblox Corporation.
+My software is not designed to steal account information, collect passwords or authentication tokens, bypass Roblox security systems or include malicious functionality such as malware, spyware or hidden background processes.
+
+I try to keep my projects transparent and give users full control over what the software does. Users should still review the source code, permissions and releases before running third-party software.
+
+If someone chooses to use my software in a way that violates the Roblox Terms of Use or Community Standards, that use is entirely outside the intended purpose of my projects. I do not support, encourage or take responsibility for the use of my software to violate Roblox rules, abuse game systems or gain access to features in ways that are not permitted by Roblox.
+
+Roblox may update its rules and systems over time, so users are responsible for making sure that their use of any software complies with the latest Roblox policies.
+
+My projects are independently developed and are not affiliated with, endorsed by or officially associated with Roblox Corporation.
 
 ## Socials
 
