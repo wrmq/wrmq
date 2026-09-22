@@ -12,23 +12,19 @@
 
 I'm a Python, C#, C++ and Luau developer.
 
-Most of my projects revolve around automation, applications, macros and utilities. I prefer writing maintainable code and making software that's simple, transparent and easy to use.
+Most of my projects revolve around automation, applications, macros and utilities. I focus on writing maintainable code and building software that is simple, reliable and easy to use.
 
-## Safety & Compliance
+## Security & Compliance
 
-My programs are intended to operate within the official Roblox Terms of Use and Community Standards.
+All of my programs are developed with the intention of following the official Roblox Terms of Use and Community Standards.
 
-I aim to build my software with security and transparency in mind:
+My software is not designed to steal account information, collect passwords or authentication tokens, bypass Roblox security systems or include malicious functionality such as malware, spyware or hidden background processes.
 
-* No intentional account stealing, credential harvesting or malicious behavior.
-* No software designed to bypass Roblox security systems or moderation.
-* No hidden malware, spyware or destructive functionality.
-* Sensitive credentials, passwords and authentication tokens should never be requested or stored unnecessarily.
-* Users should always review the source code, permissions and releases before running third-party software.
-* Projects are designed with user control and clear functionality in mind.
-* Roblox updates its rules and systems over time, so users are responsible for making sure their use of any tool remains compliant with the latest Roblox policies.
+I try to keep my projects transparent and give users full control over what the software does. Users should still review the source code, permissions and releases before running third-party software.
 
-My projects are independently developed and are **not affiliated with, endorsed by or officially associated with Roblox Corporation**.
+Roblox may update its rules and systems over time, so users should always make sure that their use of any software complies with the latest Roblox policies.
+
+My projects are independently developed and are not affiliated with, endorsed by or officially associated with Roblox Corporation.
 
 ## Socials
 
@@ -54,4 +50,5 @@ My projects are independently developed and are **not affiliated with, endorsed 
     Hey Mewtwo
   </sub>
 </p>
+
 
