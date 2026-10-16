@@ -49,7 +49,7 @@ My projects are independently developed and are not affiliated with, endorsed by
 
 <p align="center">
   <sub>
-    Hey Marti 
+    Hey Marti <3
   </sub>
 </p>
 
